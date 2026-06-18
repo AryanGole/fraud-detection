@@ -215,8 +215,6 @@ See [Feature Engineering Documentation](docs/feature_engineering.md)
 
 ## 🏆 Business Impact
 
-> **Resume-Ready Statements:**
-
 - Designed and implemented an enterprise fraud detection pipeline processing **12M+ daily transactions** across 5 payment channels, reducing fraud losses by an estimated **$4.2M annually**
 - Engineered **42 behavioral and velocity features** using PySpark window functions and distributed aggregations, achieving **94.7% fraud recall** with only 2.1% false positive rate
 - Built end-to-end **MLOps pipeline** with MLflow tracking, automated model retraining, and drift detection, reducing model degradation incidents by **65%**
